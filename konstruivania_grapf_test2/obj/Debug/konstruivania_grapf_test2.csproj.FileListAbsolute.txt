@@ -1,0 +1,8 @@
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.exe.config
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.exe
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.pdb
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\Debug\konstruivania_grapf_test2.csprojResolveAssemblyReference.cache
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\Debug\konstruivania_grapf_test2.Properties.Resources.resources
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\Debug\konstruivania_grapf_test2.csproj.GenerateResource.Cache
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\Debug\konstruivania_grapf_test2.exe
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\Debug\konstruivania_grapf_test2.pdb

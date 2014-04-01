@@ -1,0 +1,121 @@
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.exe
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.pdb
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.baml
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.g.cs
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\App.g.cs
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.cache
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.g.resources
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.Properties.Resources.resources
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.exe
+C:\my_projeck\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.pdb
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.exe
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.pdb
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.exe
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.pdb
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.cache
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.g.resources
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.exe
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.cache
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.g.resources
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.exe
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\btn_exit.baml
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\btn_exit.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.lref
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.read.0.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.write.0.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.exe
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\btn_exit.baml
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\App.baml
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\btn_exit.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.cache
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.lref
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.g.resources
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.read.0.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.write.0.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.exe
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\Новая папка\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.pdb
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.exe
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.pdb
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.exe
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.pdb
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\btn_exit.baml
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\App.baml
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\btn_exit.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.cache
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.lref
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.g.resources
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.read.0.tlog
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.write.0.tlog
+C:\Documents and Settings\Admin\Рабочий стол\last\konstruivania_grapf_test2\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.exe
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.pdb
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.exe
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.pdb
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.csprojResolveAssemblyReference.cache
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\btn_exit.baml
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\App.baml
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\btn_exit.g.cs
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.g.cs
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\App.g.cs
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.cache
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.lref
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.baml
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.g.resources
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.Properties.Resources.resources
+G:\1\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.csproj.GenerateResource.Cache
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.exe
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.pdb
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.exe
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Debug\konstruivania_grapf_test2.pdb
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.csprojResolveAssemblyReference.cache
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\btn_exit.baml
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\App.baml
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\btn_exit.g.cs
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\App.g.cs
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.cache
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2_MarkupCompile.lref
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\MainWindow.baml
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.g.resources
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.Properties.Resources.resources
+C:\Users\1110509\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.csproj.GenerateResource.Cache
+E:\Інженерія ПЗ\Лабы\4\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.exe
+E:\Інженерія ПЗ\Лабы\4\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Debug\konstruivania_grapf_test2.pdb

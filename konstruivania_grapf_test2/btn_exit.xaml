@@ -1,0 +1,85 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="konstruivania_grapf_test2.btn_exit"
+	x:Name="UserControl"
+	d:DesignWidth="174" d:DesignHeight="63.984">
+	<UserControl.Resources>
+		<Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid x:Name="grid" RenderTransformOrigin="0.5,0.5">
+							<Grid.RenderTransform>
+								<TransformGroup>
+									<ScaleTransform/>
+									<SkewTransform/>
+									<RotateTransform/>
+									<TranslateTransform/>
+								</TransformGroup>
+							</Grid.RenderTransform>
+							<Path x:Name="path" Data="M71.500004,8.9069773 L72.507938,8.9069773 72.383797,9.5093166 72.161041,9.3647844 C71.968155,9.2365381 71.750641,9.0860015 71.500004,8.9069773 z M108.5,5.9070021 C111.76282,15.695441 117.5,18.32354 117.5,29.907 117.5,38.951348 115.8108,52.342114 120.5,58.907002 90.982845,58.907002 104.5,57.761315 104.5,41.907002 104.5,31.79766 101.67211,22.146588 100.67388,11.953206 L100.52938,10.252758 100.63525,10.19684 C100.84299,10.065317 100.84014,9.9555923 100.5,9.9070016 L100.52938,10.252758 100.44193,10.298954 C99.602825,10.68385 97.410595,11.159221 96.500004,10.907 96.045704,10.781168 95.833336,10.240334 95.500004,9.9070016 101.02126,6.594247 102.23913,5.9070009 108.5,5.9070021 z M73.500004,4.9070009 L73.500004,8.9069773 72.507938,8.9069773 72.687023,8.0380751 C72.92244,6.9636227 73.185379,5.9137944 73.500004,4.9070009 z M46.5,4.9070009 C57.526543,8.5824915 56.277489,20.684392 63.5,27.906865 70.222576,24.545598 70.960918,16.780014 72.351517,9.6659218 L72.383797,9.5093166 72.432949,9.5412108 C73.540344,10.239998 73.786137,10.127939 75.500004,10.906967 75.500004,39.216347 58.092201,43.94365 80.500004,52.906716 80.500004,55.573369 80.500004,58.240018 80.500004,60.90667 62.59053,60.90667 72.674877,55.951523 65.5,45.906758 65.226006,46.290352 64.833336,46.573422 64.5,46.906754 64.166672,47.240082 63.823952,47.56429 63.5,47.906747 63.04187,48.391057 64.054703,49.536938 63.5,49.906735 62.833336,49.906735 62.166672,49.906735&#xa;61.5,49.906735 61.5,69.897801 60.798355,61.906663 49.5,61.906663 49.5,59.147786 49.554596,59.015858 48.5,56.906693 50.72596,55.793725 50.849762,55.906701 53.5,55.906701 55.956245,48.53801 55.5,42.213917 55.5,33.90683 54.833336,33.906829 54.166672,33.906829 53.5,33.90683 48.184364,23.275607 46.5,19.089308 46.5,4.9070009 z M133.95739,2.7980254 C134.73295,2.7962405 135.86362,2.9073116 137.49996,2.9073129 141.49997,2.9073116 145.49997,2.9073116 149.49997,2.9073129 157.62489,2.9073116 164.46483,3.9072984 172.49999,3.9072987 173.24371,7.6257859 173.49999,10.759412 173.49999,14.907155 167.50393,14.907155 161.38435,13.464988 156.49998,15.907143 160.17851,23.264084 158.33351,31.963219 160.49998,39.906827 165.92116,59.784207 164.08846,57.90659 153.49998,57.90659 153.49998,43.66784 147.70407,29.847525&#xa;147.49997,12.90718 144.48132,10.112188 136.34139,11.907194 132.49996,11.907195 132.49996,3.824429 131.6307,2.8033777 133.95739,2.7980254 z M19.02272,0.50038874 C24.737663,0.532184 28.309784,2.5267656 32.5,10.907179 25.865387,14.224476 16.875908,11.907174 9.5,11.907175 9.5,26.465968 8.0902557,25.389079 15.5,23.907136 16.642952,29.621855 17.491768,31.898873 21.5,35.907094 17.324165,35.907094 14.181648,36.170762 10.5,36.90709 10.5,43.244309 11.808647,44.832989 13.5,49.907044 36.545097,49.907044 29.663132,48.722676 32.5,62.907002 22.833336,62.907002 13.166672,62.907002&#xa;3.5,62.907002 3.5,42.609116 0.5,22.297337 0.5,1.9072085 8.8365326,1.6382879 14.577766,0.47565567 19.02272,0.50038874 z" Stretch="Fill" Stroke="Black" RenderTransformOrigin="0.5,0.5">
+								<Path.Fill>
+									<LinearGradientBrush EndPoint="0.974,0.135" StartPoint="-0.201,1.24">
+										<GradientStop Color="Black" Offset="0"/>
+										<GradientStop Color="#FF1D81B4" Offset="0.536"/>
+									</LinearGradientBrush>
+								</Path.Fill>
+								<Path.RenderTransform>
+									<TransformGroup>
+										<ScaleTransform/>
+										<SkewTransform/>
+										<RotateTransform/>
+										<TranslateTransform/>
+									</TransformGroup>
+								</Path.RenderTransform>
+							</Path>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True">
+								<Setter Property="RenderTransform" TargetName="path">
+									<Setter.Value>
+										<TransformGroup>
+											<ScaleTransform/>
+											<SkewTransform/>
+											<RotateTransform Angle="360.167"/>
+											<TranslateTransform/>
+										</TransformGroup>
+									</Setter.Value>
+								</Setter>
+								<Setter Property="Margin" TargetName="path" Value="7.994,0.012,-0.006,4.012"/>
+								<Setter Property="Fill" TargetName="path">
+									<Setter.Value>
+										<LinearGradientBrush EndPoint="0.983,-0.37" StartPoint="-0.262,1.467">
+											<GradientStop Color="Black" Offset="0"/>
+											<GradientStop Color="#FF3BEDE1" Offset="0.547"/>
+										</LinearGradientBrush>
+									</Setter.Value>
+								</Setter>
+							</Trigger>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+	</UserControl.Resources>
+
+	<Grid x:Name="LayoutRoot">
+		<Button Content="Button" Style="{DynamicResource ButtonStyle1}">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="-0.144,0.625" StartPoint="0.753,0.125">
+					<GradientStop Color="Black" Offset="0"/>
+					<GradientStop Color="White" Offset="1"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+	</Grid>
+</UserControl>
